@@ -55,7 +55,7 @@ code {
     background-color: #dddddd;
     color: rgba(0, 0, 0, 0.75);
     padding: 1px 3px;
-    font-size: 12px;
+    font-size: 14px;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
@@ -72,6 +72,23 @@ code {
  }
  pre code {
     background-color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     padding: 0;
  }
+ img[alt=half-crop] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5px;
+    width: 50%;
+}
+
+@media only screen and (hover: none) and (pointer: coarse) {
+    img[alt=half-crop] {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        padding-bottom: 5px;
+        width: 100%;
+    }
+}
