@@ -29,6 +29,10 @@
     color: black;
 }
 
+.back {
+    color: black;
+}
+
 .title {
     display: inline-grid;
     font-size: 30px;
