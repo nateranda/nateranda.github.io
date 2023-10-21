@@ -22,6 +22,8 @@ h6 {
 }
 
 p {
+    font-family: 'Roboto', sans-serif;
+    text-align: justify;
     margin-bottom: 9px;
 }
 
@@ -36,6 +38,7 @@ ol {
 }
 
 a {
+    font-family: 'Roboto', sans-serif;
     color: #0069d6;
 }
 
@@ -59,8 +62,9 @@ code {
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
- }
- pre {
+}
+
+pre {
     display: block;
     padding: 14px;
     margin: 0 0 18px;
@@ -69,13 +73,15 @@ code {
     border: 1px solid #d9d9d9;
     white-space: pre-wrap;
     word-wrap: break-word;
- }
- pre code {
+}
+
+pre code {
     background-color: #fff;
     font-size: 14px;
     padding: 0;
- }
- img[alt=half-crop] {
+}
+
+img.half-crop {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -84,11 +90,14 @@ code {
 }
 
 @media only screen and (hover: none) and (pointer: coarse) {
-    img[alt=half-crop] {
+    img {
+        margin: 0px 15px 5px 15px;
         display: block;
-        margin-left: auto;
-        margin-right: auto;
-        padding-bottom: 5px;
-        width: 100%;
+        width: 90%;
+    }
+    img.half-crop {
+        margin: 0px 15px 5px 15px;
+        display: block;
+        width: 90%;
     }
 }
