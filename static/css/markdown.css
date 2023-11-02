@@ -27,6 +27,10 @@ p {
     margin-bottom: 9px;
 }
 
+b {
+    font-family: 'Roboto', sans-serif;
+}
+
 em {
     font-family: 'Roboto', sans-serif;
 }
