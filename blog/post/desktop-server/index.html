@@ -14,9 +14,9 @@
             <div class="title">Why you should treat your desktop like a server</div>
             <a class="back" href="../../">back</a>
             <div class="date">Oct 13, 2023</div>
-            
+
             <a class="tag" href="../../tag/tech">tech</a>
-            
+
         </div>
 <p>No matter how well you dress it up in fancy clothes, the desktop tower will always be a stain on your workspace. It permanently scars an otherwise clean and managed desk with its big, blocky, loud, and dusty stature. It&rsquo;s connected to its peripheral appendages with an unsightly, tangled mess of cables that never seem to go where you want them. As a result, there&rsquo;s no option but to either buy all-wireless peripherals, Bluetooth headphones, and USB hubs to tame the beast and meticulously cable-manage your way to computer nirvana, or subjugate your tower to a shameful spot by your desk, deliberately hidden from view. Surely, we don&rsquo;t have to treat our computers this way.</p>
 
@@ -38,11 +38,11 @@
 
 <p>If you&rsquo;re still not sold, here are some simple tests of the latency of these two programs as well as other solutions like RustDesk and AnyDesk. The tests were performed simply by running a timer on the host, streaming the video output to the client, and comparing the difference in times between the host and client screens via a photo. These findings are nowhere near scientific—I just did this test to get a sense of how these programs compared.</p>
 
-<p><img src="../../static/images/desktop-server/delay-ms.png" alt="delay-ms" /></p>
+<p><img src="../../static/images/desktop-server/delay-ms.avif" loading="lazy" alt="delay-ms" /></p>
 
 <p>As you can see, Parsec takes the lead on latency, followed closely behind by Sunshine and TightVNC. Although this makes TightVNC look like a real contender, while it does well on pure latency, I experienced a whole lot of delays maximizing windows, moving windows around, or doing anything that affected a large chunk of the screen. I wouldn&rsquo;t recommend using TightVNC for this purpose. Although some programs did better than others, it&rsquo;s important to note that any wired connection is going to blow any wireless connection out of the water. With the same exact settings, Parsec on a wireless client and wired host performed 100 ms or 6 frames worse compared to an all-wired connection. It&rsquo;s also worth noting that this test was performed on a 60 Hz panel, meaning that the timer updates at around 16.6 millisecond intervals. This makes it impossible to get sub-frame latencies, and getting more accurate results would require having two 120, 144, or 240 Hz monitors and software that supports transmission over 60 Hz. Thus, it might be more realistic to express these findings as rounded to the nearest frame, with an error of 1 frame in both directions:</p>
 
-<p><img src="../../static/images/desktop-server/delay-nearest-frame.png" alt="delay-nearest-frame" /></p>
+<p><img src="../../static/images/desktop-server/delay-nearest-frame.avif" loading="lazy" alt="delay-nearest-frame" /></p>
 
 <p>In general, I think Parsec is the best option overall. If you need better cross-platform support and/or something that&rsquo;s open-source, Sunshine/Moonlight is your next best bet. Both of these produce a video stream that is more than adequate, and both are nearly indistinguishable from just hooking your desktop up to a monitor, especially at high refresh rates. They both support extensive user configuration and are free to use. As for me, I quickly uninstalled everything but Parsec after finishing the tests. I hope you found this little exploration insightful, or at least can view your desktop under a different lens now. I would love to see what other people settle on in their own use cases, and it would be cool if this workflow could be improved at all.</p>
 
