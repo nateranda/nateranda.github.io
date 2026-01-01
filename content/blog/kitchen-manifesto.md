@@ -1,0 +1,60 @@
+---
+title: "the kitchen manifesto"
+date: 2024-02-08
+summary: "Eight guidelines to achieving chef nirvana."
+---
+**1. A large kitchen does not equal a good kitchen.**
+
+Sure, a large kitchen is better than a cramped one. But increasing the size of your kitchen gives diminishing returns, and it could even make your kitchen worse. The heart of good kitchen design is efficiency; you should aim to minimize movement while maximizing utility. The other tips touch on this idea in different ways, but how it relates to the size of your kitchen is the distance between appliances. A bigger kitchen will naturally cause the main kitchen appliances (stove, sink, fridge, pantry, prep counter, etc.) to be farther away. This means that when you need to quickly get another vegetable while prepping a meal or go to the sink to fill a pot with water, you will have to walk a couple of paces more than you would in a smaller kitchen. And these little inefficiencies quickly add up, especially in a poorly-designed kitchen. Oodles of extra storage space also make it easy to hoard too much useless stuff or skimp on your organization. Personally, I would rather cook in a small but efficient kitchen than a poorly-designed kitchen twice its size.
+
+You can cut down on this loss by grouping appliances together based on function; for example, keeping the fridge close to the prep counter, putting the sink right next to the dishwasher, and even adding another faucet over the stove to fill up pots. However, these inefficiencies will still remain over the course of cooking a whole meal from start to finish.
+
+A truly cramped kitchen can still be efficient, but it's much harder to pull off. Often, every part of the kitchen needs to play double duty: magnetic shelves are stuck to the side of the fridge to hold spices and oils, pans are hung on the wall above the stove, cutting boards are placed over the sink when prepping, and the dining table may even have wheels to serve as a makeshift counter. Those with smaller kitchens often have the advantage of only cooking for themselves and maybe a partner, so large gear can be subbed out for their more bite-sized counterparts.
+
+**2. Keep what you use regularly and nothing more.**
+
+It doesn't matter how nice and expensive a piece of equipment is if you don't use it. Your kitchen should only contain things that you use frequently. The term "frequent" is intentionally left vague to account for your kitchen's size and budget as well as the variety of meals you cook. For me, frequent means more than once a month.
+
+There's no need to have a whole knife block if the only things you use from it are a chef's knife, a paring knife, and some shears. Instead, drop the knife block for a wall-mounted magnetic block—you save counter space, and you can even put other things like meat thermometers up there.
+
+The same goes for pots and pans. Unless you're cooking specialty dishes or at a very high volume, most people only need a skillet, saucier, stock pot, dutch oven, and nonstick to get through most meals. From there, you can throw a couple more specialty pots and pans on there, like a wok, sauté pan, and griddle. You would be surprised at how little equipment you need to get the job done. Along with saving you money, cutting down on pans frees tons of clutter in your kitchen, alleviating the dreaded "kitchen claustrophobia".
+
+It can also be helpful to sweat the small stuff sometimes. You don't need three separate wooden spoons or three sizes of tongs! Choose one of each utensil and stick with it—your crock will thank you. Instead of having a separate blender and food processor, opt for a two-in-one instead. If you're only cooking a few cups of rice at a time, opt for a tiny, simple rice cooker or just use the stove. These changes may seem minimal and some barely save on space, but this is just as much about decluttering as it is clearing up room.
+
+**3. On-call items should be at arm's reach—group items around their respective stations.**
+
+This is what turns a so-so kitchen into a great one. This may seem self-explanatory, but you would be surprised at how far you're walking to get something without even realizing it. Do what the factory designers did in the 1900s and cut down on as many unnecessary movements as possible. Each station, whether it be a prep station, the stove, the sink, or the coffee bar, should have everything needed to carry out their respective tasks no more than a pace away.
+
+To do this, think of and write down everything you need that comes to mind when at a station. For example, when you're cooking on the stove, you need your food, cooking utensils, oil, vinegar, spices, salt, towels, a timer, a meat thermometer, and more depending on what you're cooking. Then, make sure everything you need is situated close to you. If you have one item that's used in multiple locations, consider getting multiple of the same item. If that's not an option, place the item so it's equidistant from the two locations. At the stove, for example, put all of your kitchen utensils in a crock instead of in a cramped drawer. Put frequently used oils in glass jars with pour spouts and place them by the stove. Keep a dish towel hanging on the handle of your oven. Keep a pinch bowl of salt and jars of frequently used spices on the counter or an adjacent shelf. This way, when you need to add a bit more oil, shake in a bit of paprika, salt to taste, or test the temperature of your chicken, you aren't darting around the room searching for everything.
+
+This can even mean the difference between a delicious or ruined meal. If you sense your fond is about to burn, you want that vinegar or white wine right on hand to quickly deglaze and avoid catastrophe. If you instead have to take ten seconds to go over to the other side of the kitchen and wrestle the balsamic out of the corner cabinet, you could very well run back to a fond that is burnt to a crisp. Keeping everything at arm's reach means you can adequately deal with anything your pesky dishes throw at you.
+
+**4. Most-used items should be the easiest to access; infrequently-used items shouldn't be pronounced.**
+
+You shouldn't have to wade through your Thanksgiving roasting tray and your heavy Dutch oven to get to your favorite fry pan. Keep your most used items where they are the easiest to get to. This could mean putting pans in a side-by-side rack instead of stacking them on top of each other, or hanging your most used cookware on the wall or off the kitchen island. Instead of putting your oil and vinegar in a corner cabinet, stick them right on the counter.
+
+I'm not saying that *every* item needs to be easily accessible, rather the most *important* ones should. It's fine if your roasting tray sits in the way back of your cabinet, as you only need to use it a couple of times a year. The same goes for specialty oils, vinegars, and spices; it's fine if it takes a bit longer to dig them out. But for your daily drivers, your go-to's—those should be front and center.
+
+**5. Every item should have a place, but too much organization can cause gridlock.**
+
+Having vital ingredients that float around your kitchen is a recipe for disaster (pun intended). Make sure everything in your kitchen has one place—and one place only—that they travel back to when they're not needed anymore. Once you make sure of this, you will start to have a sixth sense as to where everything is at all times. Soon enough, you'll be reaching for the olive oil or the salt without even thinking about it. This is not to say that everything has to be super neat—clutter does not necessarily translate to mess. Just put everything where it makes sense in your mind, don't let it waver, and your kitchen will be much more efficient as a result.
+
+However, it's important not to go overboard. Writing this, I think back to those TikTok videos of people stocking their refrigerators, meticulously repackaging each item into aesthetic labeled containers and single-serving bottles. While meticulous organization can be cathartic, you encounter diminishing returns extremely fast. Personally, I only repackage a few things: olive oil in a glass container with a pour-spout, salt in a pinch bowl, rice in a clear container, and baking staples like flour and sugar in pop-lid containers. These containers all have distinct benefits over just leaving them in their original packaging (ease of access, cleanliness, aesthetics) that I think save me effort. Your needs are different than mine, though, so use your own discretion.
+
+**6. Storage should have room to grow.**
+
+A truly efficient storage system can handle additions without a problem. Of course, this matters more in places where additions are more common—a pantry will benefit much more from breathing room than a pan rack or appliance cabinet. However, I argue that most, if not all, of your storage areas should have extra space. You never know when you want to start cooking different styles of food that require different equipment and building in extra space from the get-go means that this won't be a problem.
+
+**7. Be pragmatic, not aspirational.**
+
+Remember to design your kitchen around how you *actually* cook, not around how you *want* to cook. Sure, having two ovens may be nice for large gatherings or Thanksgiving dinner, but is it really worth the other 360 days that that second oven will go unused? Why save a whole shelf for cookbooks if you never open them? Are you buying that 7-in-1 ninja pot because you could truly use its features, or is it just to serve as kitchen fodder? Are you buying that huge bundle of kale because you have a kale chip recipe to try out tomorrow, or is it in the hope that you will find a use for it?
+
+This isn't me being judgmental—I have caught myself buying in aspiration far too many times to count. I am susceptible to this type of thinking just as much as anyone else. But buying pragmatically and not longingly not only saves you money, but it also saves the environment from more e-waste or rotten veggies.
+
+There are a few ways to make this easier. First, sit on new potential kitchen purchases for a bit to decide if you're just buying it to fill that consumerist hole in your stomach. If you find a recipe that calls for a piece of kit that you don't own, wait until you find a couple more recipes you can't live without that call for it before pulling the trigger. If you live close enough to a grocery store, you can opt for daily shopping trips instead of weekly or bi-weekly ones; that way, you don't have to plan a week ahead, and you don't have to throw away spoiled food when your plans inevitably change throughout the week.
+
+**8. Clean early and clean often.**
+
+The only thing worse than a poorly designed kitchen is a filthy one. Not only is a dirty kitchen disgusting, but it is also constricting—you have to work around the mess in order to get anything done. Trust me, your future self will thank you if you start cleaning up completely (and I mean *completely*) before you leave the kitchen. No pots "soaking", no food stains on the counter, and no dishes piling up in the sink. You should leave the kitchen just as clean, if not cleaner, than when you entered. Wash and dry any equipment, wipe down your counters, and put everything back where it's supposed to be. That way, when you get the urge to cook again, there will be virtually *no* friction. You will be much more inclined to order take-out when your kitchen is a mess versus when it's squeaky clean.
+
+If the idea of cleaning up completely after a large meal seems daunting, it's because you aren't strategic enough. Instead of waiting around during any downtimes in your recipe, use those opportunities to clean up what you can. It's very possible to have absolutely nothing to clean up but your serving dishes if you play your cards right. You can make this process easier by prioritizing simple recipes over complex ones, especially on time-constrained weeknights. One-pot recipes are a savior, leaving nothing to be cleaned up besides said pot and your knife and cutting board.

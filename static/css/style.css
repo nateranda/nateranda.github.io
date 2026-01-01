@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Drowner';
+  src: url('/fonts/Drowner-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/Inter-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("/fonts/IBMPlexMono-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IBM Plex Mono";
+  src: url("/fonts/IBMPlexMono-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+html {
+  font-family: "Drowner", sans-serif;
+}
+
+em {
+  font-style: italic;
+}
+
+.container {
+  width: clamp(0px, 40em, 95vw);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  position: relative;
+  z-index: 2;
+  margin-bottom: 1.5em;
+}
+
+nav a {
+  font-size: 1.35em;
+  color: black;
+  text-decoration: none;
+  position: relative;
+  z-index: 2;
+}
+
+.bg-image {
+  position: relative;
+  margin-top: -2em;
+  z-index: 1;
+}
+
+.bg-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card a {
+  position: relative;
+  font-size: 2em;
+  z-index: 2;
+  color: black;
+  text-decoration: none;
+}
+
+.card time {
+  position: relative;
+  font-size: 1em;
+  z-index: 2;
+  white-space: nowrap;
+}
+
+.card img {
+  position: relative;
+  width: 100%;
+  object-fit: cover;
+  margin-top: -0.7em;
+  margin-bottom: 1em;
+  z-index: 1;
+}
+
+.card p {
+  font-family: "Inter", sans-serif;
+  line-height: 1.15;
+  margin-bottom: 1em;
+  margin-top: 0.25em;
+}
+
+.caption {
+  position: absolute;
+  bottom: 0.15em;
+  right: 0em;
+  font-size: 1.35em;
+  color: white;
+}
+
+.title {
+  font-size: 4rem;
+  margin: 0.3em 0;
+}
+
+.back {
+  font-size: 2rem;
+  color: black;
+  text-decoration: none;
+  padding-bottom: 10em;
+}

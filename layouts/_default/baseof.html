@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" charset="utf-8">
+<head>
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="/css/reset.css">
+    <link rel="stylesheet" href="/css/markdown.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div class="container">
+    <h1 class="title">
+    {{ if and .CurrentSection (ne .CurrentSection.Kind "home") }}
+        {{ .CurrentSection.Title }}
+    {{ else }}
+        {{ .Title }}
+    {{ end }}
+    </h1>
+    <nav>
+        <a href="/">home</a> ·
+        <a href="/about/">about</a> ·
+        <a href="/blog/">blog</a> ·
+        <a href="/projects/">projects</a> ·
+        <a href="/resume.pdf" target="_blank">resume</a> ·
+        <a href="/contact/">contact</a>
+    </nav>
+    {{ block "main" . }}
+	{{ end }}
+</div>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div>
+    {{ range .Pages }}
+    <div class="card">
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+        <time>{{ if .Date }}{{ .Date.Format "Jan 2, 2006" }}{{ else }}ongoing{{ end }}</time>
+        <img src="{{ .Params.card }}">
+    </div>
+    {{ end }}
+    </div>
+{{ end }}
