@@ -1,5 +1,5 @@
 ---
-title: "nate randa's blog"
+title: "blog"
 description: "essays and writing from nate randa"
 outputs:
   - HTML

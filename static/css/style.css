@@ -63,7 +63,7 @@ em {
 }
 
 .container {
-  width: clamp(0px, 40em, 95vw);
+  width: clamp(0px, 40em, 90vw);
   margin-left: auto;
   margin-right: auto;
 }
