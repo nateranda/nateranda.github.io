@@ -4,4 +4,4 @@ title: "incelese"
 card: "/projects/incelese/card.png"
 ---
 
-I took a seminar called Loaded Language which culminated in a research paper about discourse and power. For my paper, I focused on ‘incelese’, the language of the online involuntary celibate (incel) community. You can read it [here](https://docs.google.com/document/d/1DM0d8BknzlmUeVqd44qriKi3P_0w0Sbwzvn1KMKdxws/edit?usp=sharing).
+I took a seminar called Loaded Language which culminated in a research paper about discourse and power. For my paper, I focused on ‘incelese’, the language of the online involuntary celibate (incel) community. You can read it [here](/projects/incelese/incelese.pdf).

@@ -3,7 +3,7 @@ title: "an ode to the conversation pit"
 date: 2023-11-17
 summary: "My favorite essay from my zine 'an ode to'."
 ---
-*This is my favorite piece from my essay collection 'an ode to'. You can read it here.*
+*This is my favorite piece from my essay collection 'an ode to'. You can read it [here](/projects/an-ode-to/an-ode-to-1.pdf).*
 
 The conversation pit is a hallmark of 1950s mid-century modern interior design. Brought on by a desire for a simpler, cleaner, and more spacious living room, it aims to sidestep the clutter of furniture entirely, simply by moving the living room's most imposing unit onto a plane below that of the other pieces. It's a centerpiece not by the way it imposes itself on the room, but by the way it aims to transcend it.
 
